@@ -1,0 +1,27 @@
+{
+  "name": "DXCNetWorking",
+  "version": "0.1.0",
+  "summary": "封装的网络请求库：DXCNetWorking",
+  "description": "好用的封装的网络请求库：DXCNetWorking",
+  "homepage": "https://github.com/Dxc123/-DXCNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dxc123": "daixingchuang@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Dxc123/-DXCNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DXCNetWorking\", \"DXCNetWorking/**/*.{h,m}",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
